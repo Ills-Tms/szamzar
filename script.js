@@ -5,7 +5,6 @@ const harom = document.querySelector('sz3')
 
 const jelszo = 111
 
-formelem.addEventListener('SUBMIT')
 if (egy + ketto + harom == jelszo) {
   console.log('nyitva')
 } else {
