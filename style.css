@@ -1,0 +1,12 @@
+body {
+    background-color: dimgrey;
+  }
+  input {
+    box-shadow: 3px;
+    border-radius: 5px;
+  }
+  img {
+    width: 50px;
+    display: inline;
+  }
+  
